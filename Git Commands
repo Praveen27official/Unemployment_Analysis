@@ -1,0 +1,9 @@
+cd unemployment-analysis
+
+git init
+git add .
+git commit -m "Initial commit - Unemployment Analysis Project"
+
+git branch -M main
+git remote add origin https://github.com/your-username/unemployment-analysis.git
+git push -u origin main
